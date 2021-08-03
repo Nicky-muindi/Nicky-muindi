@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nicky-M254
+- 👋 Hi, I’m @Nicky-muindi
 - 👀 I’m interested in Software Engineering and computer science
 - 🌱 I’m currently learning software engineering @ALX
 - 💞️ I’m looking to collaborate on my ALX projects
